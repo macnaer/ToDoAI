@@ -71,7 +71,7 @@ export function AppHeader({ onCreate }: AppHeaderProps) {
             onClick={onCreate}
             sx={{ whiteSpace: 'nowrap' }}
           >
-            New task 2
+            Add task
           </Button>
         </Stack>
       </Toolbar>
