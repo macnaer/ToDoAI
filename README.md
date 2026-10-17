@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
-The app opens at <http://localhost:5173>.
+The app opens at <http://localhost:80>.
 
 ## Scripts
 
